@@ -24,7 +24,7 @@
         apiKey: '11eadde6a82ee4206b90f5f349b01259b',
       },
       imagery: {
-        apiKey: 'NmDVsZUfeF9WqIvqVlrF',
+        apiKey: 'xzKVH4kVaBty0sgjUUqE',
         urlFormat:
           'https://api.maptiler.com/tiles/satellite/{z}/{x}/{y}.jpg?key={apiKey}',
         attribution:
@@ -54,5 +54,10 @@
       .catch((error) => {
         console.log(error);
       });
+    
+      Procedural.onFeatureClicked = function ( id ) {
+        console.log( 'Feature clicked:', id );
+        window.open("google.com");
+      }
 </script>
 </html>
