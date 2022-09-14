@@ -46,7 +46,7 @@
     });
     window.Procedural = Procedural;
 
-    fetch('./data/conflitos.geojson')
+    fetch('/data/conflitos.geojson')
       .then((response) => response.json())
       .then((json) => {
         Procedural.addOverlay(json);

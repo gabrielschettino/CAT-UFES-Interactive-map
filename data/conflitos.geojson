@@ -11,7 +11,7 @@
             "x": 0
           },
           "borderRadius": 32,
-          "image": "/goiabeiras.jpg",
+          "image": "mangue.jpg",
           "height": 60,
           "width": 60,
           "borderWidth": 2,
@@ -337,7 +337,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "Colônia dos Pescadores",
+          "name": "Itapuã",
           "anchorOffset": {
             "y": 20,
             "x": 0
@@ -360,7 +360,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "Colônia dos Pescadores",
+          "name": "Itapuã",
           "anchorOffset": {
             "y": 90,
             "x": 0
@@ -499,13 +499,13 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "Parque Natural Municipal de Jacarenema",
+          "name": "Jacarenema",
           "anchorOffset": {
             "y": 20,
             "x": 0
           },
           "borderRadius": 32,
-          "image": "/jacaranema.jpg",
+          "image": "/jacarenema.jpg",
           "height": 60,
           "width": 60,
           "borderWidth": 2,
@@ -522,7 +522,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "Parque Natural Municipal de Jacarenema",
+          "name": "Jacarenema",
           "anchorOffset": {
             "y": 90,
             "x": 0
