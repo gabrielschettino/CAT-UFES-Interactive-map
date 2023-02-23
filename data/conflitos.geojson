@@ -575,6 +575,48 @@
            -20.319113808731153
           ]
         }
+      },
+      {
+        "type": "Feature",
+        "id": 1,
+        "properties": {
+          "name": "Vale do Mulembá",
+          "anchorOffset": {
+            "y": 20,
+            "x": 0
+          },
+          "borderRadius": 32,
+          "image": "/mulemba.jpg",
+          "height": 60,
+          "width": 60,
+          "borderWidth": 2,
+          "background": "#ccc"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -40.324888456038934,
+          -20.28595095561883
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 1,
+        "properties": {
+          "name": "Vale do Mulembá",
+          "anchorOffset": {
+            "y": 90,
+            "x": 0
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -40.324888456038934,
+          -20.28595095561883
+          ]
+        }
       }
       
     ]
